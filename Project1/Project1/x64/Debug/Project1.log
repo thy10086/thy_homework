@@ -1,0 +1,4 @@
+﻿  sm4.cpp
+E:\sduwork\大三下\创新创业\Project1\Project1\sm4.cpp(166,17): warning C4566: 由通用字符名称“\u2705”表示的字符不能在当前代码页(936)中表示出来
+E:\sduwork\大三下\创新创业\Project1\Project1\sm4.cpp(168,17): warning C4566: 由通用字符名称“\u274C”表示的字符不能在当前代码页(936)中表示出来
+  Project1.vcxproj -> E:\sduwork\大三下\创新创业\Project1\x64\Debug\Project1.exe
